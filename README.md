@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxjosuedev&label=Profile%20views&color=0e75b6&style=flat" alt="mxjosuedev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mxjosuedev" alt="mxjosuedev" /></a> </p>
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=mxjosuedev" alt="mxjosuedev" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mxjosue2" target="blank"><img src="https://img.shields.io/twitter/follow/mxjosue2?logo=twitter&style=for-the-badge" alt="mxjosue2" /></a> </p>
 
