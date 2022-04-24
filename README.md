@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Josue</h1>
-<h3 align="center">I am a person with great enthusiasm for programming.</h3>
+<h1 align="center">Hola 👋, soy Josue</h1>
+<h3 align="center">Comencé a programar en el 2021 y me encanta.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxjosuedev&label=Profile%20views&color=0e75b6&style=flat" alt="mxjosuedev" /> </p>
 
@@ -7,12 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/mxjosue2" target="blank"><img src="https://img.shields.io/twitter/follow/mxjosue2?logo=twitter&style=for-the-badge" alt="mxjosue2" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, JavaScript, SQL & Git**
+- 🌱 Actualmente aprendiendo **PHP, JavaScript, SQL & Git**
 
-- 💬 Ask me about **PHP**
+- 💬 Preguntame sobre **PHP**
 
-- 📫 How to reach me? **send me a message on Twitter**
+- 📫 ¿Como puedes contactarme? **enviame un mensaje en Twitter**
 
+- 🤔 Creo que **@ las Redes Sociales son utiles herramientas de comunicación**
+
+- 🔒#Tip **nunca uses 2 contraseñas iguales en mas de 1 sitio**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mxjosuedev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mxjosuedev" height="30" width="40" /></a>
