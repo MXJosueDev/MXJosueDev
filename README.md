@@ -15,7 +15,7 @@
 
 - 🤔 Creo que **@ las Redes Sociales son utiles herramientas de comunicación**
 
-- 🔒#Tip **nunca uses 2 contraseñas iguales en mas de 1 sitio**
+- 🔒#Tip **nunca uses contraseñas iguales en mas de 1 sitio**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mxjosuedev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mxjosuedev" height="30" width="40" /></a>
