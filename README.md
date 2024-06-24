@@ -1,30 +1,84 @@
-<h1 align="center">Hi 👋, I'm Josue</h1>
-<h3 align="center">I am a person with great enthusiasm for programming.</h3>
+<h1 align="center">Hi 👋, I'm Josue Lopez</h1>
+<h3 align="center">I study programming and I am from México.</h3>
+<br/>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=MXJosueDev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mxjosuedev&label=Profile%20views&color=0e75b6&style=flat" alt="mxjosuedev" /> </p>
+<h2>About me 🙋🏻‍♂️</h2>
 
-<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=mxjosuedev" alt="mxjosuedev" /></a> </p>
+- 🚀 I’m currently learning about **Full stack web development, Microcontrollers, Robotics and Python**
 
-<p align="left"> <a href="https://twitter.com/mxjosue2" target="blank"><img src="https://img.shields.io/twitter/follow/mxjosue2?logo=twitter&style=for-the-badge" alt="mxjosue2" /></a> </p>
+- 💡I am interested in **Machine Learning**
 
-- 🌱 I’m currently learning **PHP, JavaScript, SQL & Git**
+- 📓Studying at **CECyTE Guanajuato**
 
-- 💬 Ask me about **PHP**
+- 🎂**16** years old
 
-- 📫 How to reach me? **send me a message on Twitter**
+- 🎮 I like to play **video games** 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mxjosuedev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mxjosuedev" height="30" width="40" /></a>
-<a href="https://twitter.com/mxjosue2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mxjosue2" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCgKlrohRGU9M69v1SY-buNg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucgklrohrgu9m69v1sy-bung" height="30" width="40" /></a>
-</p>
+<h2>Techs 💻</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<h2 align="left">Contact & Social 🌐</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mxjosuedev&layout=compact&langs_count=8" alt="mxjosuedev" /></p>
+<div align="center">
+  <a href="https://discordapp.com/users/502583510826090516" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://x.com/iMXJosue" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mxjosuedev&show_icons=true&locale=en" alt="mxjosuedev" /></p>
+<h2>Stats 🏅</h2>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mxjosuedev&" alt="mxjosuedev" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MXJosueDev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MXJosueDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<br />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mxjosuedev&label=Profile%20views&color=0e75b6&style=flat" alt="mxjosuedev" /> </p>
