@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josue Lopez</h1>
-<h3 align="center">I study programming and I am from México.</h3>
+<h3 align="center">Studying programming and I am from México.</h3>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=MXJosueDev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
