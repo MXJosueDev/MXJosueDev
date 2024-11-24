@@ -13,7 +13,7 @@
 
 - 📓Studying at **CECyTE Guanajuato**
 
-- 🎂**16** years old
+- 🎂**17** years old
 
 - 🎮 I like to play **video games** 
 
