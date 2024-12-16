@@ -7,9 +7,9 @@
 
 <h2>About me 🙋🏻‍♂️</h2>
 
-- 🚀 I’m currently learning about **Full stack web development, Microcontrollers, Robotics and Python**
+- 🚀 I’m currently learning about **Full stack web development, Microcontrollers and Robotics**
 
-- 💡I am interested in **Machine Learning**
+- 💡I am interested in **AI**
 
 - 📓Studying at **CECyTE Guanajuato**
 
