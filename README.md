@@ -7,7 +7,7 @@
 
 <h2>About me 🙋🏻‍♂️</h2>
 
-- 🚀 I’m currently learning about **Full stack web development, Mobile development and Robotics**
+- 🚀 I’m currently learning about **Full stack web development**
 
 <!-- - 💡I am interested in **AI** -->
 
