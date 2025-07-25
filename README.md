@@ -75,6 +75,7 @@
   <a href="https://x.com/iMXJosue" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
+  <a href="https://linkedin.com/in/josué-lópez-rico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josué-lópez-rico" height="30" width="40" /></a>
 </div>
 
 <h2>Stats 🏅</h2>
