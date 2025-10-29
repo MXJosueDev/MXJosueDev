@@ -13,7 +13,7 @@
 
 - 📓Studying **Software Engineering** at **Universidad Autonoma de Queretaro**
 
-- 🎂**17** years old
+- 🎂**18** years old
 
 <!-- - 🎮 I like to play **video games** --> 
 
