@@ -3,7 +3,8 @@
 
 <div align="center">
   <!-- <img src="https://github-profile-trophy.vercel.app?username=MXJosueDev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=MXJosueDev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <!-- <img src="https://github-profile-trophy-fork-two.vercel.app/?username=MXJosueDev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MXJosueDev&theme=default" alt="Profile details badge"/>
 </div>
 
 <h2>About me 🙋🏻‍♂️</h2>
@@ -79,12 +80,12 @@
   </a>
 </div>
 
-<h2>Stats 🏅</h2>
+<!-- <h2>Stats 🏅</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MXJosueDev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MXJosueDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2&hide=scss,css" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 <br />
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mxjosuedev&label=Profile%20views&color=0e75b6&style=flat" alt="mxjosuedev" /> </p>
